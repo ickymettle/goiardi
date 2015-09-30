@@ -21,6 +21,7 @@
 package cookbook
 
 import (
+	"log"
 	"database/sql"
 	"fmt"
 	gversion "github.com/ctdk/go-version"
@@ -168,7 +169,8 @@ func (cbv *CookbookVersion) URLType() string {
 func New(name string) (*Cookbook, util.Gerror) {
 	var found bool
 	if !util.ValidateName(name) {
-		err := util.Errorf("Invalid cookbook name '%s' using regex: 'Malformed cookbook name. Must only contain A-Z, a-z, 0-9, _ or -'.", name)
+		log.Println("smoking crack, getting a new file??")
+		err := util.Errorf("Invalid cookbook name '%s' using regex: 'Malformed cookbook name. Must only contain A-Z, a-z, 0-9, _ or -'. Oogety.", name)
 		return nil, err
 	}
 	if config.UsingDB() {
