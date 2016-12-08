@@ -19,10 +19,10 @@ package actor
 
 import (
 	"encoding/gob"
-	"github.com/ctdk/goiardi/client"
-	"github.com/ctdk/goiardi/config"
-	"github.com/ctdk/goiardi/indexer"
-	"github.com/ctdk/goiardi/user"
+	"github.com/ickymettle/goiardi/client"
+	"github.com/ickymettle/goiardi/config"
+	"github.com/ickymettle/goiardi/indexer"
+	"github.com/ickymettle/goiardi/user"
 	"testing"
 )
 

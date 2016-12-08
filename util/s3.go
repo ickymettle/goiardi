@@ -22,7 +22,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3"
-	"github.com/ctdk/goiardi/config"
+	"github.com/ickymettle/goiardi/config"
 	"github.com/tideland/golib/logger"
 	"net"
 	"regexp"

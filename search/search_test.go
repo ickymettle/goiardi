@@ -22,13 +22,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ctdk/goiardi/client"
-	"github.com/ctdk/goiardi/config"
-	"github.com/ctdk/goiardi/databag"
-	"github.com/ctdk/goiardi/environment"
-	"github.com/ctdk/goiardi/indexer"
-	"github.com/ctdk/goiardi/node"
-	"github.com/ctdk/goiardi/role"
+	"github.com/ickymettle/goiardi/client"
+	"github.com/ickymettle/goiardi/config"
+	"github.com/ickymettle/goiardi/databag"
+	"github.com/ickymettle/goiardi/environment"
+	"github.com/ickymettle/goiardi/indexer"
+	"github.com/ickymettle/goiardi/node"
+	"github.com/ickymettle/goiardi/role"
 )
 
 // Most search testing can be handled fine with chef-pedant, but that's no

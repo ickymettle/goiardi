@@ -19,7 +19,7 @@ package report
 import (
 	"encoding/gob"
 	"fmt"
-	"github.com/ctdk/goiardi/node"
+	"github.com/ickymettle/goiardi/node"
 	"testing"
 	"time"
 )

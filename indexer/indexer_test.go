@@ -18,8 +18,8 @@ package indexer
 
 import (
 	"fmt"
-	"github.com/ctdk/goiardi/config"
-	"github.com/ctdk/goiardi/util"
+	"github.com/ickymettle/goiardi/config"
+	"github.com/ickymettle/goiardi/util"
 	"io/ioutil"
 	"os"
 	"testing"

@@ -24,13 +24,13 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/ctdk/goiardi/actor"
-	"github.com/ctdk/goiardi/cookbook"
-	"github.com/ctdk/goiardi/environment"
-	"github.com/ctdk/goiardi/loginfo"
-	"github.com/ctdk/goiardi/node"
-	"github.com/ctdk/goiardi/role"
-	"github.com/ctdk/goiardi/util"
+	"github.com/ickymettle/goiardi/actor"
+	"github.com/ickymettle/goiardi/cookbook"
+	"github.com/ickymettle/goiardi/environment"
+	"github.com/ickymettle/goiardi/loginfo"
+	"github.com/ickymettle/goiardi/node"
+	"github.com/ickymettle/goiardi/role"
+	"github.com/ickymettle/goiardi/util"
 	"github.com/tideland/golib/logger"
 )
 

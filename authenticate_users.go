@@ -21,8 +21,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/ctdk/goiardi/config"
-	"github.com/ctdk/goiardi/user"
+	"github.com/ickymettle/goiardi/config"
+	"github.com/ickymettle/goiardi/user"
 	"net/http"
 )
 

@@ -3,7 +3,7 @@ package depgraph
 import (
 	"fmt"
 
-	"github.com/ctdk/goiardi/digraph"
+	"github.com/ickymettle/goiardi/digraph"
 )
 
 // Dependency is used to create a directed edge between two nouns.

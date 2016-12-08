@@ -24,7 +24,7 @@ package util
 
 import (
 	"fmt"
-	"github.com/ctdk/goiardi/config"
+	"github.com/ickymettle/goiardi/config"
 	"net/http"
 	"reflect"
 	"regexp"

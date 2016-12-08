@@ -19,8 +19,8 @@ package environment
 /* MySQL specific functions for environments */
 
 import (
-	"github.com/ctdk/goiardi/datastore"
-	"github.com/ctdk/goiardi/util"
+	"github.com/ickymettle/goiardi/datastore"
+	"github.com/ickymettle/goiardi/util"
 )
 
 func (e *ChefEnvironment) saveEnvironmentMySQL() util.Gerror {

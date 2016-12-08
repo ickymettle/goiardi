@@ -19,7 +19,7 @@ package report
 /* MySQL funcs for reports */
 
 import (
-	"github.com/ctdk/goiardi/datastore"
+	"github.com/ickymettle/goiardi/datastore"
 	"github.com/go-sql-driver/mysql"
 )
 

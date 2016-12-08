@@ -24,7 +24,7 @@ import (
 	"crypto/x509"
 	"encoding/pem"
 	"fmt"
-	"github.com/ctdk/goiardi/config"
+	"github.com/ickymettle/goiardi/config"
 	vault "github.com/hashicorp/vault/api"
 	"github.com/tideland/golib/logger"
 	"sync"

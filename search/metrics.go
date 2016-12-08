@@ -21,7 +21,7 @@ package search
 import (
 	"time"
 
-	"github.com/ctdk/goiardi/config"
+	"github.com/ickymettle/goiardi/config"
 	"github.com/raintank/met"
 	"github.com/tideland/golib/logger"
 )

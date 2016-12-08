@@ -3,7 +3,7 @@ package depgraph
 import (
 	"fmt"
 
-	"github.com/ctdk/goiardi/digraph"
+	"github.com/ickymettle/goiardi/digraph"
 )
 
 // Nouns are the key structure of the dependency graph. They can

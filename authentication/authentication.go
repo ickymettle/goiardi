@@ -35,9 +35,9 @@ import (
 	"time"
 
 	"github.com/ctdk/chefcrypto"
-	"github.com/ctdk/goiardi/actor"
-	"github.com/ctdk/goiardi/config"
-	"github.com/ctdk/goiardi/util"
+	"github.com/ickymettle/goiardi/actor"
+	"github.com/ickymettle/goiardi/config"
+	"github.com/ickymettle/goiardi/util"
 )
 
 // CheckHeader checks the signed headers sent by the client against the expected

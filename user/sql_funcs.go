@@ -18,8 +18,8 @@ package user
 
 import (
 	"database/sql"
-	"github.com/ctdk/goiardi/config"
-	"github.com/ctdk/goiardi/datastore"
+	"github.com/ickymettle/goiardi/config"
+	"github.com/ickymettle/goiardi/datastore"
 	"log"
 )
 

@@ -19,7 +19,7 @@ package sandbox
 /* PostgreSQL functions for sandboxes */
 
 import (
-	"github.com/ctdk/goiardi/datastore"
+	"github.com/ickymettle/goiardi/datastore"
 )
 
 func (s *Sandbox) fillSandboxFromPostgreSQL(row datastore.ResRow) error {

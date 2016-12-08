@@ -19,7 +19,7 @@ package loginfo
 /* PostgreSQL specific functions for loginfo */
 
 import (
-	"github.com/ctdk/goiardi/datastore"
+	"github.com/ickymettle/goiardi/datastore"
 )
 
 func (le *LogInfo) fillLogEventFromPostgreSQL(row datastore.ResRow) error {

@@ -21,8 +21,8 @@ package role
 import (
 	"database/sql"
 	"fmt"
-	"github.com/ctdk/goiardi/config"
-	"github.com/ctdk/goiardi/datastore"
+	"github.com/ickymettle/goiardi/config"
+	"github.com/ickymettle/goiardi/datastore"
 	"log"
 	"strings"
 )

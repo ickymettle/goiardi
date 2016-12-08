@@ -20,7 +20,7 @@ package secret
 
 import (
 	"crypto/rsa"
-	"github.com/ctdk/goiardi/util"
+	"github.com/ickymettle/goiardi/util"
 )
 
 type ActorKeyer interface {

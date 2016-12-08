@@ -18,8 +18,8 @@ package util
 
 import (
 	"fmt"
-	"github.com/ctdk/goiardi/config"
-	"github.com/ctdk/goiardi/filestore"
+	"github.com/ickymettle/goiardi/config"
+	"github.com/ickymettle/goiardi/filestore"
 	"github.com/tideland/golib/logger"
 	"net/http"
 	"regexp"

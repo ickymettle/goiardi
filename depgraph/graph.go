@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ctdk/goiardi/digraph"
+	"github.com/ickymettle/goiardi/digraph"
 )
 
 // WalkFunc is the type used for the callback for Walk.

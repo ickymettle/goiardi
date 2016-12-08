@@ -21,10 +21,10 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/ctdk/goiardi/actor"
-	"github.com/ctdk/goiardi/cookbook"
-	"github.com/ctdk/goiardi/loginfo"
-	"github.com/ctdk/goiardi/util"
+	"github.com/ickymettle/goiardi/actor"
+	"github.com/ickymettle/goiardi/cookbook"
+	"github.com/ickymettle/goiardi/loginfo"
+	"github.com/ickymettle/goiardi/util"
 	"net/http"
 )
 

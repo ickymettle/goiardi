@@ -20,7 +20,7 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/ctdk/goiardi/actor"
+	"github.com/ickymettle/goiardi/actor"
 	"net/http"
 )
 

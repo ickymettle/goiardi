@@ -20,11 +20,11 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/ctdk/goiardi/actor"
-	"github.com/ctdk/goiardi/environment"
-	"github.com/ctdk/goiardi/loginfo"
-	"github.com/ctdk/goiardi/role"
-	"github.com/ctdk/goiardi/util"
+	"github.com/ickymettle/goiardi/actor"
+	"github.com/ickymettle/goiardi/environment"
+	"github.com/ickymettle/goiardi/loginfo"
+	"github.com/ickymettle/goiardi/role"
+	"github.com/ickymettle/goiardi/util"
 	"net/http"
 )
 

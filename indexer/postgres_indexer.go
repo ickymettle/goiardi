@@ -18,8 +18,8 @@ package indexer
 
 import (
 	"fmt"
-	"github.com/ctdk/goiardi/datastore"
-	"github.com/ctdk/goiardi/util"
+	"github.com/ickymettle/goiardi/datastore"
+	"github.com/ickymettle/goiardi/util"
 	"github.com/lib/pq"
 	"strings"
 )

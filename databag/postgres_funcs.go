@@ -17,7 +17,7 @@
 package databag
 
 import (
-	"github.com/ctdk/goiardi/datastore"
+	"github.com/ickymettle/goiardi/datastore"
 )
 
 // PostgreSQL-specific functions for data bags & data bag items.

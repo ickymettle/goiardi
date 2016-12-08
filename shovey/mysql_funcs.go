@@ -19,8 +19,8 @@ package shovey
 /* MySQL funcs for shovey */
 
 import (
-	"github.com/ctdk/goiardi/datastore"
-	"github.com/ctdk/goiardi/util"
+	"github.com/ickymettle/goiardi/datastore"
+	"github.com/ickymettle/goiardi/util"
 	"github.com/go-sql-driver/mysql"
 	"net/http"
 	"time"

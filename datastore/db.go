@@ -25,7 +25,7 @@ import (
 	//"encoding/gob"
 	"encoding/json"
 	"fmt"
-	"github.com/ctdk/goiardi/config"
+	"github.com/ickymettle/goiardi/config"
 	// just want the side effects
 	_ "github.com/go-sql-driver/mysql"
 	// just want the side effects

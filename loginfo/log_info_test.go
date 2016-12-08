@@ -20,9 +20,9 @@ package loginfo
 
 import (
 	"encoding/gob"
-	"github.com/ctdk/goiardi/client"
-	"github.com/ctdk/goiardi/config"
-	"github.com/ctdk/goiardi/datastore"
+	"github.com/ickymettle/goiardi/client"
+	"github.com/ickymettle/goiardi/config"
+	"github.com/ickymettle/goiardi/datastore"
 	"testing"
 	"time"
 )

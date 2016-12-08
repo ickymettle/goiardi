@@ -19,7 +19,7 @@ package loginfo
 /* MySQL specific functions for loginfo */
 
 import (
-	"github.com/ctdk/goiardi/datastore"
+	"github.com/ickymettle/goiardi/datastore"
 	"time"
 )
 

@@ -20,7 +20,7 @@ package node
 
 import (
 	"database/sql"
-	"github.com/ctdk/goiardi/datastore"
+	"github.com/ickymettle/goiardi/datastore"
 	"github.com/go-sql-driver/mysql"
 	"strings"
 )

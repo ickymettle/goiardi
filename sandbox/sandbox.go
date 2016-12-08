@@ -29,10 +29,10 @@ import (
 	"io"
 	"time"
 
-	"github.com/ctdk/goiardi/config"
-	"github.com/ctdk/goiardi/datastore"
-	"github.com/ctdk/goiardi/filestore"
-	"github.com/ctdk/goiardi/util"
+	"github.com/ickymettle/goiardi/config"
+	"github.com/ickymettle/goiardi/datastore"
+	"github.com/ickymettle/goiardi/filestore"
+	"github.com/ickymettle/goiardi/util"
 	"github.com/tideland/golib/logger"
 )
 

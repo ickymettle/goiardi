@@ -19,7 +19,7 @@ package sandbox
 /* MySQL functions for sandboxes */
 
 import (
-	"github.com/ctdk/goiardi/datastore"
+	"github.com/ickymettle/goiardi/datastore"
 	"time"
 )
 

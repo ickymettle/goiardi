@@ -19,8 +19,8 @@ package client
 import (
 	"database/sql"
 	"fmt"
-	"github.com/ctdk/goiardi/datastore"
-	"github.com/ctdk/goiardi/util"
+	"github.com/ickymettle/goiardi/datastore"
+	"github.com/ickymettle/goiardi/util"
 	"net/http"
 )
 
